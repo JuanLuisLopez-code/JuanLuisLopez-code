@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm Juan Luis Lopez del Barco</h1>
-<h3 align="center">DAW student at IES L'estacio</h3>
+<!---
+- 👋 Hi, I’m @juanluislopez-code
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-<h3>🛠 SKILLS</h3>
-<div style="margin-left:5%;">
-    💻 &nbsp;
+cjuan-code/cjuan-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<h2> Hello, I'm Juan Luis!!! </h2>
+
+<h3> 👦 &nbsp;About Me </h3>
+
+<h4>🎓 &nbsp;Studies</h4>
+<ul>
+  <li>Microcomputer systems and network technician</li>
+  <li>Web developing</li>
+</ul>
+
+<h3> 🛠 &nbsp;Skills</h3>
+
+- 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - Frontend 🌐 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
@@ -30,8 +48,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  
+  <br/>
+<div align="center">
+  <a href="https://github.com/juanluislopez-code">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanluislopez-code&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanluislopez-code&show_icons=true" />
+  </a>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanLuisLopez-code&show_icons=true&locale=en&layout=compact" alt="juanluislopez-code" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanLuisLopez-code&show_icons=true&locale=en" alt="juanluislopez-code" /></p>
+<br/>
