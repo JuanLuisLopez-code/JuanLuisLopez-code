@@ -1,0 +1,15 @@
+name: main_workflow
+on:
+  push:
+    branches:
+      - master
+jobs:
+  change_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: Juan Luis Lopez del Barco, JuanLuisLopez-code, juanluislopezdaw@gmail.com
+          token: ${{ secrets.TOKEN }}
