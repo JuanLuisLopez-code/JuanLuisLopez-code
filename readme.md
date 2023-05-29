@@ -28,11 +28,13 @@ You can click the Preview link to take a look at your changes.
   ![Vue3](https://img.shields.io/badge/-Vue%203-333333?style=flat&logo=vue3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![JQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery)
+  ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
 - Backend 🌐 &nbsp;
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-333333?style=flat&logo=springboot)
   ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
   ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
   ![ExpressJS](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express)
+  ![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django)
 - 🎨 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
