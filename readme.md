@@ -58,4 +58,12 @@ You can click the Preview link to take a look at your changes.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanluislopez-code&show_icons=true" />
   </a>
 </div>
+
+<h3> 🤝🏻 &nbsp;Contact me </h3>
+
+<p align="center">
+<a href="mailto:juanluislopezdaw@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juanluislopezdaw@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/juan-luis-lopez-del-barco-a56005278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+</p>
+
 <br/>
